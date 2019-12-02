@@ -1,0 +1,208 @@
+page_title: "Pierre Wacrenier - Résumé"
+url: http://wacrenier.me
+name: "Pierre Wacrenier"
+description: "SRE Manager"
+links:
+    pierre@wacrenier.me:
+        type: email
+        visibility: screen
+    pierre.wacrenier@gmail.com:
+        type: email
+        visibility: print
+    "+1 310-709-2819":
+        type: phone
+        visibility: print
+    linkedin.com/in/pierrewacrenier:
+        icon: icon-linkedin-sign
+        target: http://linkedin.com/in/pierrewacrenier
+    github.com/mota:
+        icon: icon-github-sign
+        target: http://github.com/mota
+experience:
+    - start_date: Jun. 2019
+      end_date: Present
+      what: "iCloud SRE Manager"
+      who: "Apple Inc."
+      where: "Cupertino"
+    - start_date: Feb. 2018
+      end_date: May. 2019
+      what: "Engineering Manager & Senior DevOps Engineer"
+      who: "Westfield LLC"
+      where: "Los Angeles"
+      skills:
+          - AWS
+          - Flask
+          - Python
+          - Ruby on Rails
+          - GCP
+          - Docker
+          - Kubernetes
+          - CI/CD
+          - Microservices
+          - TravisCI
+          - Terraform
+          - New Relic
+          - Sumo Logic
+          - Chef
+          - Team and Project Management
+      duties:
+          - Architect the Westfield Digital group's cloud infrastructure using Terraform
+          - Deploy Monitoring across all projects and setup alerting based off New Relic and Sumo Logic
+          - Maintain and enhance custom monitoring and alerting systems for mall Digital Directories
+          - Create in-house Slack chatbot to automate, in a safe and centralized environment, tasks non-operational employees would run (re-deploy a project, restart an machine, launch one-off tasks)
+          - Develop in-house CI/CD application that automates the build and deployment of any web-facing application
+          - Implement Review Apps to allow automatic deployment and deletion of in-progress features
+          - Migrate Production Environment from Heroku to Amazon Web Services with ECS
+          - Setup CI/CD for in-house ETL platform hosted on Google Cloud Platform (Cloud Function, Dataflow)
+          - Make a tool to securely and conveniently manage secrets based off EC2 Parameter Store
+          - Develop a Ruby/Rails gem to integrate GCP PubSub within the ActiveSupport/ActiveModel paradigm
+          - Refresh and maintain the Chef environment
+    - start_date: Aug. 2016
+      end_date: Jan. 2018
+      what: "Software Engineer"
+      who: "Washos"
+      where: "Los Angeles"
+      skills:
+          - Ruby on Rails
+          - PostgreSQL
+          - Vue.js
+          - REST
+          - Heroku
+      duties:
+          - Develop the company's stats application
+          - Bridge the company user base with Zendesk to improve customer support
+          - Enhance the operations dashboard to ease taking of actions
+          - Improve the vendor-facing web application
+          - Maintain and improve the company's back-office web application
+          - Re-architecture the staging environement revolving around Heroku App Reviews
+          - Provide an interactive and reactive tool to easily modify vendors' working areas
+          - Develop the B2B technical workflow into the platform
+          - Security audit of the platform and patch the vulnerability bug
+    - start_date: Oct. 2013
+      end_date: Jul. 2016
+      what: "Software Engineer"
+      who: "Dalenys SA"
+      where: "Amsterdam"
+      skills:
+          - Python
+          - C
+          - MySQL
+          - MongoDB
+          - REST APIs
+          - Docker
+          - Django
+          - Flask
+          - Git
+          - Debian
+      duties:
+          - Develop and maintain premium-rate phone billing platform, processing 20 million calls monthly
+          - Produce monthly inter-operator billing, including updates to billing terms
+          - Update Quality Assurance and Continuous Integration of various projects
+          - Produce and manage inter-operator number portability system
+          - Assist the operation team with its own deployment solution
+    - start_date: Oct. 2012
+      end_date: Oct. 2013
+      what: "Software Engineer"
+      who: "Outscale SA"
+      where: "Paris"
+      skills:
+          - AWS
+          - Python
+          - OpenStack
+          - PostgreSQL
+      duties:
+          - Enhanced and maintained the company-made IaaS platform
+          - Implemented the Amazon Web Services IAM API
+          - Bootstrappped the Continuous Integration platform
+          - Designed and implemented a multi back-end monitoring automation tool
+    - start_date: Mar. 2010
+      end_date: Dec. 2014
+      what: "Teaching Assistant"
+      who: "Epitech"
+      where: "Paris"
+      skills:
+          - Teaching
+          - C
+          - C++
+          - Python
+          - Security
+          - Unix/Linux/BSDs
+          - x86/amd64 assembly
+      duties:
+          - Lectured class of 70 students in C, C++, POSIX C API and x86 assembly
+          - Graded students projects (C/C++, x86 assembly, binary flow security)
+          - Organized and monitored labs
+          - Wrote 4 subjects
+skills:
+    Expertise:
+        - C
+        - C++
+        - Python
+        - POSIX C API
+        - Linux (Debian)
+        - Object Oriented Programming
+        - DevOps/SRE/PE
+    Proficiency:
+        - GNU Emacs
+        - Docker
+        - Kubernetes
+        - POSIX Shell
+        - Go
+        - MySQL
+        - MongoDB
+        - Postgresql
+        - Django
+        - OpenBSD
+        - FreeBSD
+        - Nginx
+        - Git
+        - Vim
+        - Concurrency
+        - Scalability
+        - Distributed Systems
+        - Ruby on Rails
+        - Heroku
+        - AWS
+        - GCP
+        - Cloud Architecture
+    Hacking:
+        - D
+        - Rust
+        - Low Level Programming (x86
+        - amd64
+        - Gameboy architectures)
+        - Kernel Architectures
+education:
+    - start_date: Sep. 2008
+      end_date: Mar. 2013
+      school: Epitech, Paris, European Institute of IT
+      skills:
+          - Master of Science in Information Technology
+          - C
+          - C++
+          - Security
+          - Linux
+          - FreeBSD
+          - x86/amd64 assembly
+    - start_date: Jan. 2012
+      end_date: Jun. 2012
+      school: California State University, Long Beach
+      skills:
+          - Compiler Construction
+          - Operating System
+          - Computer Security
+          - Theory of computation
+    - start_date: Jul. 2012
+      end_date: Aug. 2012
+      school: University of California, Berkeley
+      skills:
+          - Web Architecture
+          - International Business
+languages:
+    French: Native
+    English: Fluent
+    Spanish: Basic
+activities:
+    - Epitech Inovative Project winner with tNETacle (decentralized VPN)
+    - France vice Champion, American Football, junior section (2004)
+    - Fascinated by the Gameboy
