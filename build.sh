@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -e
+
 pip install -r requirements.txt
 
 cp -r static public
