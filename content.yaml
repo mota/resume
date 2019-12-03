@@ -24,6 +24,13 @@ experience:
       what: "iCloud SRE Manager"
       who: "Apple Inc."
       where: "Cupertino"
+      skills:
+          - Team management
+          - Infrastructure Design Automation
+      duties:
+          - Manage a business critical SRE team
+          - Generate automation efforts
+          - Onboard software engineering teams with new platform interfaces
     - start_date: Feb. 2018
       end_date: May. 2019
       what: "Engineering Manager & Senior DevOps Engineer"
