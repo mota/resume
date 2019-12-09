@@ -4,11 +4,9 @@ python:
 branches:
   only:
   - master
-before_install:
-    - pip install awscli
 install:
+    - pip install awscli
+script:
     - sh build.sh
     - cd public
     - aws s3 sync . ${BUCKET_URI}
-    - echo done
-    - exit 0
