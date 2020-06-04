@@ -34,7 +34,7 @@
                             {{ name }}
                         {% else %}
                             <i class="{{ link.icon  }}"></i>
-                            <a href="mailto:{{ link.target }}">{{ name }}</a>
+                            <a href="{{ link.target }}">{{ name }}</a>
                         {% endif %}
                         </li>
                         {% endfor %}
