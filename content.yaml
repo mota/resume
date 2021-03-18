@@ -26,11 +26,17 @@ experience:
       where: "Cupertino"
       skills:
           - Team management
+          - Cross functional collaboration
           - Infrastructure Design Automation
+          - Kubernetes
+          - Spinnaker
       duties:
-          - Manage a business critical SRE team
-          - Generate automation efforts
-          - Onboard software engineering teams with new platform interfaces
+          - Manage and grow the iCloud Identity SRE team
+          - Support business-critical services
+          - Inspire automation efforts
+          - Foster tight SWE-SRE communication, reshaping the production culture
+          - Layout the foundation and drive the effort to reach Continuous Delivery
+          - Support the effort to migrate the compute to Kubernetes
     - start_date: Feb. 2018
       end_date: May. 2019
       what: "Engineering Manager & Senior DevOps Engineer"
