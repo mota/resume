@@ -84,7 +84,7 @@
                         {% endfor %}
                     </table>
                 </div>
-                <div class="section" style="page-break-before: always;" />
+                <div class="section">
                     <h3>Education</h3>
                     <table>
                         {% for school in education %}
