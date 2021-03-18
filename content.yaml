@@ -1,7 +1,7 @@
 page_title: "Pierre Wacrenier - Résumé"
 url: http://wacrenier.me
 name: "Pierre Wacrenier"
-description: "SRE Manager"
+description: "SRE Manager, supporting services at scale. Constantly seeking to replace the human variable in systems maintenance and growth."
 links:
     pierre@wacrenier.me:
         type: email
@@ -149,18 +149,22 @@ experience:
 skills:
     Expertise:
         - C
-        - C++
         - Python
-        - POSIX C API
         - Linux (Debian)
         - Object Oriented Programming
         - DevOps/SRE/PE
+        - Scalability
+        - Distributed Systems
     Proficiency:
-        - GNU Emacs
+        - Rust
         - Docker
         - Kubernetes
-        - POSIX Shell
         - Go
+        - C++
+        - AWS
+        - Vim
+        - GNU Emacs
+        - POSIX Shell
         - MySQL
         - MongoDB
         - Postgresql
@@ -169,21 +173,14 @@ skills:
         - FreeBSD
         - Nginx
         - Git
-        - Vim
         - Concurrency
-        - Scalability
-        - Distributed Systems
         - Ruby on Rails
         - Heroku
-        - AWS
         - GCP
         - Cloud Architecture
     Hacking:
         - D
-        - Rust
-        - Low Level Programming (x86
-        - amd64
-        - Gameboy architectures)
+        - Low Level Programming (x86 amd64 Gameboy architectures)
         - Kernel Architectures
 education:
     - start_date: Sep. 2008
@@ -217,5 +214,7 @@ languages:
     Spanish: Basic
 activities:
     - Epitech Inovative Project winner with tNETacle (decentralized VPN)
-    - France vice Champion, American Football, junior section (2004)
-    - Fascinated by the Gameboy
+    - France runner up, American Football, junior section (2004)
+    - Motorcycling
+    - Woodworking
+    - The Gameboy
